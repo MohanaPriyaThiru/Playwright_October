@@ -10,6 +10,5 @@ test("Alets handling", async ({ page }) => {
     // a.dismiss()//click cancel
   });
 
-  await page.locator("#alertbtn").click();
-
+  await page.locator("#alertbtns").click();
 });
