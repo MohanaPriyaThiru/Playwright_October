@@ -1,0 +1,11 @@
+flipkart
+
+loginPage- class
+homepage -class
+productpage -class
+checkoutpage
+payment
+oderconfirmationpage
+minutespage
+flight
+
